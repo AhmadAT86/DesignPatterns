@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace WU15.DesignPatterns.Singelton.Console
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+            //fortsätt med sida 39 och knacka kancka knacka ;)
         }
     }
 }

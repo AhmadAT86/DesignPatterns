@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WU15.DesignPatterns.FactoryMethod.Core
 {  // JAG ÄR PÅ SIDA 26 I DESIGNMÖNSTER KOLLA GENOM DE.
-    public class IProductFactory
+    public class IProductFactory : ITask
     {
         ElectronicProductBase CreateProduct(ProductType product);
     }
