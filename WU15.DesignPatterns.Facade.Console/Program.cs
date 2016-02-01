@@ -11,6 +11,7 @@ namespace WU15.DesignPatterns.Facade.Console
     {
         static void Main(string[] args)
         {
+            //Testar uppkopplingen mot GitHub
             // MorgageEligibility
             // Facade
             var mortgage = new Mortgage();
